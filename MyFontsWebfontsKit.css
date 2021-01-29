@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4004367, 2021-01-29T15:43:23-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Nadia by Type Innovations
+ * URL: https://www.myfonts.com/fonts/typeinnovations/nadia/regular/
+ * Copyright: Copyright (c) Alex Kaczun, dba Type Innovations, 2012. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d1a0f");
+  
+@font-face {
+  font-family: "Nadia";
+  src: url('webFonts/Nadia/font.woff2') format('woff2'), url('webFonts/Nadia/font.woff') format('woff');
+}
+
